@@ -1,7 +1,7 @@
 # spring-jokes-app
 This Spring Boot Web application displays a random Chuck Norris Joke on the index. 
  
-## http://localhost:8080
+## Deployment view
 <img  src="public/images/8080.JPG"  width='400'><br>
 
 ## Code sample
